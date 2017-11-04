@@ -125,4 +125,4 @@ bot.on("message", function (message) {
 });
 
 
-bot.login(Config.user.email, Config.user.password);
+bot.login(Mzc2MzYyMjE1OTI3OTcxODUx.DN9SIw.IAPu29eEpsIhaSzEYOy2lZlTvy8);
